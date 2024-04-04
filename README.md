@@ -1,4 +1,4 @@
-# inotes_project_complete_details
+# Automated Notes Maker - iNOTES
 
 
 ## ANM Explaination Video
